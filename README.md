@@ -1,96 +1,96 @@
 # 🕒 Countdown Clock Holiday
 
-🎉 **Countdown Clock Holiday** to prosta i stylowa aplikacja, która odlicza czas do Twojego ulubionego święta!  
-Zbudowana z wykorzystaniem **React** i **Vite**, zapewnia szybkie działanie i nowoczesny wygląd. 🌟
+🎉 **Countdown Clock Holiday** is a simple and stylish application that counts down to your favorite holiday!  
+Built using **React** and **Vite**, it provides fast performance and a modern look. 🌟
 
 ---
 
-## 📚 Funkcje
+## 📚 Features
 
-- ✔️ **Odliczanie czasu** – Wyświetla dni, godziny, minuty i sekundy pozostałe do wybranego święta.  
-- ✔️ **Dynamiczna aktualizacja** – Czas odliczany jest w czasie rzeczywistym.  
-- ✔️ **Responsywny design** – Aplikacja działa świetnie na komputerach, tabletach i smartfonach. 📱💻  
+- ✔️ **Countdown Timer** – Displays days, hours, minutes, and seconds remaining until the selected holiday.  
+- ✔️ **Dynamic Updates** – The countdown is updated in real-time.  
+- ✔️ **Responsive Design** – The app works great on desktops, tablets, and smartphones. 📱💻  
 
 ---
 
-## 🚀 Jak uruchomić projekt?
+## 🚀 How to Run the Project?
 
-Aby uruchomić aplikację lokalnie:
+To run the application locally:
 
-1. **Sklonuj repozytorium**:  
+1. **Clone the repository**:  
    ```bash
    git clone https://github.com/konradxmalinowski/Countdown-clock-holiday.git
    ```
 
-2. **Przejdź do katalogu projektu**:  
+2. **Navigate to the project directory**:  
    ```bash
    cd Countdown-clock-holiday
    ```
 
-3. **Zainstaluj zależności**:  
+3. **Install dependencies**:  
    ```bash
    npm install
    ```
 
-4. **Uruchom serwer deweloperski za pomocą Vite**:  
+4. **Start the development server using Vite**:  
    ```bash
    npm run dev
    ```
 
-5. **Otwórz przeglądarkę** i przejdź do adresu podanego przez Vite (domyślnie `http://localhost:5173`).
+5. **Open your browser** and go to the address provided by Vite (default: `http://localhost:5173`).
 
 ---
 
-## 🛠 Technologie
+## 🛠 Technologies
 
-- **React** – Biblioteka do budowania nowoczesnych interfejsów użytkownika.  
-- **Vite** – Superszybkie narzędzie do budowania i uruchamiania aplikacji. ⚡  
-- **JavaScript** – Logika aplikacji.  
-- **CSS** – Stylizacja i responsywny design. 🎨  
+- **React** – A library for building modern user interfaces.  
+- **Vite** – A superfast tool for building and running applications. ⚡  
+- **JavaScript** – Application logic.  
+- **CSS** – Styling and responsive design. 🎨  
 
 ---
 
-## 📁 Struktura projektu
+## 📁 Project Structure
 
 ```
 Countdown-clock-holiday/
-├── public/             # Statyczne zasoby (np. favicon)
-├── src/                # Główne źródła aplikacji
-│   ├── components/     # Komponenty React
-│   ├── App.jsx         # Główny komponent aplikacji
-│   └── main.jsx        # Punkt wejścia aplikacji
-├── package.json        # Lista zależności i skrypty
-├── vite.config.js      # Konfiguracja Vite
-└── README.md           # Dokumentacja projektu
+├── public/             # Static assets (e.g., favicon)
+├── src/                # Main application sources
+│   ├── components/     # React components
+│   ├── App.jsx         # Main application component
+│   └── main.jsx        # Application entry point
+├── package.json        # List of dependencies and scripts
+├── vite.config.js      # Vite configuration
+└── README.md           # Project documentation
 ```
 
 ---
 
-## 🤝 Współpraca
+## 🤝 Contributing
 
-Chcesz pomóc w rozwoju projektu? Świetnie! 🚀
+Want to help improve the project? Great! 🚀
 
-1. **Forkuj repozytorium**.  
-2. Stwórz nową gałąź dla swojej funkcji:  
+1. **Fork the repository**.  
+2. Create a new branch for your feature:  
    ```bash
-   git checkout -b feature/nazwa-funkcji
+   git checkout -b feature/feature-name
    ```
 
-3. Wprowadź zmiany i zgłoś **pull request**. 🎉
+3. Make your changes and submit a **pull request**. 🎉
 
 ---
 
-## 💬 Kontakt
+## 💬 Contact
 
-Masz pytania lub sugestie? Skontaktuj się ze mną:
+Have questions or suggestions? Contact me:
 
 📧 GitHub: [@konradxmalinowski](https://github.com/konradxmalinowski)  
 
 ---
 
-## 📄 Licencja
+## 📄 License
 
-Projekt jest licencjonowany na zasadach licencji MIT. Szczegóły znajdziesz poniżej:
+The project is licensed under the MIT License. Details below:
 
 ```
 MIT License
