@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+$clr-background: #f9f9f9;
+$clr-card-bg: #ffffff;
+$clr-primary: #0077b6;
+$clr-secondary: #023e8a;
+$clr-text: #333333;
+$clr-muted: #aaaaaa;
+$clr-shadow: rgba(0, 0, 0, 0.1);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+@mixin flexBox($direction: row) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: $direction;
+}
+
+body,
+#root {
+  width: 100%;
+  min-height: 100svh;
+  background-color: $clr-background;
+  @include flexBox();
+}
+
+main {
+  width: max(300px, 80vw);
+  max-width: 600px;
+  background-color: $clr-card-bg;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 8px $clr-shadow;
+  @include flexBox(column);
+  gap: 20px;
+}
+
+main section {
+  width: 100%;
+  gap: 15px;
+  @include flexBox(column);
+}
+
+main h1 {
+  color: $clr-primary;
+  text-align: center;
+
+  font: {
+    size: 2rem;
+    weight: 700;
+  }
+}
+
+main h4 {
+  font: {
+    size: 1rem;
+    weight: 400;
+  }
+  color: $clr-muted;
+  text-align: center;
+}
+
+.cards {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.card {
+  flex: 1;
+  background-color: $clr-card-bg;
+  border-radius: 8px;
+  padding: 10px;
+  @include flexBox(column);
+  box-shadow: 0 2px 4px $clr-shadow;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px $clr-shadow;
+}
+
+.card span {
+  color: $clr-secondary;
+  font: {
+    size: 1.5rem;
+    weight: 600;
+  }
+}
+
+.card .bold {
+  font: {
+    size: 1.5rem;
+    weight: 600;
+  }
+  color: $clr-primary;
+}
