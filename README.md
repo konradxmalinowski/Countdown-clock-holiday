@@ -1,19 +1,19 @@
 # 🕒 Countdown Clock Holiday
 
-🎉 **Countdown Clock Holiday** is a simple and stylish application that counts down to your favorite holiday!  
-Built using **React** and **Vite**, it provides fast performance and a modern look. 🌟
+ **Countdown Clock Holiday** is a simple and stylish application that counts down to your favorite holiday!  
+Built using **React** and **Vite**, it provides fast performance and a modern look. 
 
 ---
 
-## 📚 Features
+## Features
 
-- ✔️ **Countdown Timer** – Displays days, hours, minutes, and seconds remaining until the selected holiday.  
-- ✔️ **Dynamic Updates** – The countdown is updated in real-time.  
-- ✔️ **Responsive Design** – The app works great on desktops, tablets, and smartphones. 📱💻  
+-  **Countdown Timer** – Displays days, hours, minutes, and seconds remaining until the selected holiday.  
+-  **Dynamic Updates** – The countdown is updated in real-time.  
+- **Responsive Design** – The app works great on desktops, tablets, and smartphones. 
 
 ---
 
-## 🚀 How to Run the Project?
+## How to Run the Project?
 
 To run the application locally:
 
@@ -41,16 +41,16 @@ To run the application locally:
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - **React** – A library for building modern user interfaces.  
-- **Vite** – A superfast tool for building and running applications. ⚡  
+- **Vite** – A superfast tool for building and running applications. 
 - **JavaScript** – Application logic.  
-- **CSS** – Styling and responsive design. 🎨  
+- **CSS** – Styling and responsive design. 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Countdown-clock-holiday/
@@ -66,9 +66,9 @@ Countdown-clock-holiday/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-Want to help improve the project? Great! 🚀
+Want to help improve the project? Great!
 
 1. **Fork the repository**.  
 2. Create a new branch for your feature:  
@@ -76,11 +76,11 @@ Want to help improve the project? Great! 🚀
    git checkout -b feature/feature-name
    ```
 
-3. Make your changes and submit a **pull request**. 🎉
+3. Make your changes and submit a **pull request**.
 
 ---
 
-## 💬 Contact
+## Contact
 
 Have questions or suggestions? Contact me:
 
@@ -88,7 +88,7 @@ Have questions or suggestions? Contact me:
 
 ---
 
-## 📄 License
+## License
 
 The project is licensed under the MIT License. Details below:
 
