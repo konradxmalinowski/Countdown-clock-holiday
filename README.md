@@ -3,7 +3,7 @@
  **Countdown Clock Holiday** is a simple and stylish application that counts down to your favorite holiday!  
 Built using **React** and **Vite**, it provides fast performance and a modern look. 
 
-
+<br>
 
 ## Features
 
@@ -11,7 +11,7 @@ Built using **React** and **Vite**, it provides fast performance and a modern lo
 -  **Dynamic Updates** – The countdown is updated in real-time.  
 - **Responsive Design** – The app works great on desktops, tablets, and smartphones. 
 
-
+<br>
 
 ## How to Run the Project?
 
@@ -39,6 +39,7 @@ To run the application locally:
 
 5. **Open your browser** and go to the address provided by Vite (default: `http://localhost:5173`).
 
+<br>
 
 
 ## Technologies
@@ -48,7 +49,7 @@ To run the application locally:
 - **JavaScript** – Application logic.  
 - **CSS** – Styling and responsive design. 
 
-
+<br>
 
 ## Project Structure
 
@@ -64,21 +65,13 @@ Countdown-clock-holiday/
 └── README.md           # Project documentation
 ```
 
+<br>
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/58b0070e-d789-45aa-a8d9-bbeeb2c01c87)
 
 
-## Contributing
-
-Want to help improve the project? Great!
-
-1. **Fork the repository**.  
-2. Create a new branch for your feature:  
-   ```bash
-   git checkout -b feature/feature-name
-   ```
-
-3. Make your changes and submit a **pull request**.
-
-
+<br>
 
 ## Contact
 
